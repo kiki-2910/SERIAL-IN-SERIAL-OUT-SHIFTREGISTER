@@ -42,4 +42,4 @@ Developed by: RegisterNumber:
 ![WhatsApp Image 2025-10-19 at 14 40 58_beffb836](https://github.com/user-attachments/assets/cc89b13c-b95d-4f50-b4eb-9bc4c6720cc9)
 
 **RESULTS**
-Thus the Serial in and Seral out shiftregister are designed and the truth tables is verified using Quartus software.
+Thus the Serial in and Seral out shiftregister are designed and the time diagram is verified using Quartus software.
